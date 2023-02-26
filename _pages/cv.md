@@ -13,6 +13,7 @@ Education
 ======
 * Bachelor, Biomedical Engineering in GitHub, Southern Medical University (SMU)
 * Overall GPA: 3.35/4
+* Rank: 5/38
 
 Work experience
 ======
