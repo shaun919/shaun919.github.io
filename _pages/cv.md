@@ -17,8 +17,10 @@ Education
 Work experience
 ======
 * Fall 2022: Trainee
-  * Mindray Medical
-  * Duties included: Tagging issues
+  * Company: Mindray Medical
+  * Duties included: Software testing during the registration and delivery phase,
+                     Output of reports and documents related to domestic and international medical standards, 
+                     Configuration management of software during the project
   
   
 Skills
