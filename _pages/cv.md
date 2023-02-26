@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor, Biomedical Engineering in GitHub, Southern Medical University (SMU), 2022
+  Overall GPA: 3.35/4
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2022: Trainee
+  * Mindray Medical
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
   
 Skills
 ======
@@ -36,7 +30,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,7 +40,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
   
 Teaching
 ======
@@ -54,6 +48,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Prospective
 ======
-* Currently signed in to 43 different slack teams
+* Continuing graduate studies this fall
