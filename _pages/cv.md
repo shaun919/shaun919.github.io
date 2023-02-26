@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor, Biomedical Engineering in GitHub, Southern Medical University (SMU), 2022
+* Bachelor, Biomedical Engineering in GitHub, Southern Medical University (SMU)
 * Overall GPA: 3.35/4
 
 Work experience
