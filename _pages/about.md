@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [School of Biomedical Engineering](https://portal.smu.edu.cn/swyxgcxy/index.htm), [Southern Medical University](http://www.smu.edu.cn/). My research interest includes medical image processing, with a broad range of research interests spanning deep learning and artificial intelligence..
+I'm a graduate student from [School of Biomedical Engineering](https://portal.smu.edu.cn/swyxgcxy/index.htm), [Southern Medical University](http://www.smu.edu.cn/). I focus on medical image processing, with a broad range of research interests spanning deep learning and artificial intelligence..
 
 #I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
